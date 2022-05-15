@@ -4,7 +4,7 @@
 > ‣  https://discord.gg/s3TjQnErPr
 ---!>
 ```
-<img align="left" src="./assets/neofetch.png" alt="logo.png" width="350" /> 
+<img align="left" src="https://github.com/h4x-02/h4x-02/blob/h4x-02/csgo.png" alt="logo.png" width="400" /> 
  
 ```csharp
 -----------------------------------------------------
