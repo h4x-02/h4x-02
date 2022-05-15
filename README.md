@@ -26,5 +26,5 @@ Chams Brightness
 -----------------------------------------------------
 ```
 ```csharp
-Hobbies:    Coding, Cheating, Gaming
+Hobbies: Coding, Cheating, Gaming
 ```
