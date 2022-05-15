@@ -4,7 +4,7 @@
 > ‣  https://discord.gg/s3TjQnErPr
 ---!>
 ```
-<img align="left" src="https://github.com/h4x-02/h4x-02/blob/h4x-02/assets/CSGO_SENSE.png" alt="logo.png" width="400" /> 
+<img align="left" src="https://github.com/h4x-02/h4x-02/blob/h4x-02/assets/CSGO_SENSE.png" alt="logo.png" width="280" /> 
  
 ```csharp
 -----------------------------------------------------
@@ -26,5 +26,5 @@ Chams Brightness
 -----------------------------------------------------
 ```
 ```csharp
-Hobbies:    Coding, Cheating, Gaming
+Hobbies: Coding, Cheating, Gaming
 ```
